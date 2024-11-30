@@ -26,9 +26,7 @@ Uma **calculadora simples** que permite alternar entre os temas **claro** e **es
 ```bash
 git clone https://github.com/LukaRodriguess/CalculatorDark-Light.git
 
-
-
-![image](https://github.com/user-attachments/assets/ec2d1ed8-e851-4c81-97e7-779a263f5749)
-
-
-![image](https://github.com/user-attachments/assets/42f75d7a-3d20-49b1-9fd3-d001f03f1345)
+### White
+![CalculatorWhite](https://github.com/user-attachments/assets/de1961ca-8d27-48b7-a569-d4aa4c3f96df)
+### Black
+![CalculatorBlack](https://github.com/user-attachments/assets/27c79a12-feb3-4094-a53e-bcc95a385d74)
