@@ -14,9 +14,9 @@ Uma **calculadora simples** que permite alternar entre os temas **claro** e **es
 
 ## 🛠️ **Tecnologias Utilizadas**
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_2.svg/320px-HTML5_logo_2.svg.png" height="30" width="30"> **HTML**: Estrutura da página e dos elementos da interface.
-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="30" width="30"> **CSS**: Estilos para temas claro e escuro, com transições suaves.
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/JavaScript_logo_2.svg" height="30" width="30"> **JavaScript**: Lógica para cálculos e controle da alternância de temas.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_2.svg/320px-HTML5_logo_2.svg.png" alt="HTML Logo" width="30" height="30"> **HTML**: Estrutura da página e dos elementos da interface.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="30" height="30"> **CSS**: Estilos para temas claro e escuro, com transições suaves.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/JavaScript_logo_2.svg" alt="JavaScript Logo" width="30" height="30"> **JavaScript**: Lógica para cálculos e controle da alternância de temas.
 
 ---
 
